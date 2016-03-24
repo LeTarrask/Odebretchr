@@ -44,6 +44,9 @@ function handleText(textNode)
 	v = v.replace(/\bSérgio Cabral\b/g, "Proximus");
 	v = v.replace(/\bSergio Cabral\b/g, "Proximus");
 	v = v.replace(/\bLindembergh Farias\b/g, "Lindinho");
+	v = v.replace(/\bLindberg Farias\b/g, "Lindinho");	
+	
+
 	v = v.replace(/\bHumberto Costa\b/g, "Drácula");
 	v = v.replace(/\bRenan Calheiros\b/g, "Atleta");
 	v = v.replace(/\bManuela d'Ávila\b/g, "Avião");
