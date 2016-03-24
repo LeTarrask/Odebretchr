@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "Butterfly Codenamer",
+	"version": "0.1",
+	"description": "Chamando os políticos pelos seus próprios nomes.",
+	"icons": { "16": "images/butterfly16.png",
+           "48": "images/butterfly48.png",
+          "128": "images/butterfly128.png" },
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"], 
+			"js": ["myscript.js"],
+			"run_at": "document_end"  
+		}
+	]
+}
