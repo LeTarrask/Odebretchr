@@ -35,7 +35,7 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	v = v.replace(/\bEduardo Cunha\b/g, "Caranguejo");
-	v = v.replace(/\bJacques Wagner\b/g, "Passivo");
+	v = v.replace(/\bJaques Wagner\b/g, "Passivo");
 	v = v.replace(/\bJoão Santana\b/g, "Feira");
 	v = v.replace(/\bJoao Santana\b/g, "Feira");
 	v = v.replace(/\bEduardo Paes\b/g, "Nervosinho");
