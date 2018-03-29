@@ -17,6 +17,8 @@ In Google Chrome, go to 'Tools', then 'Extensions', then upload the folder Odebr
 
 <img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/install2.png" alt="" width="" height="" border="" align="" />
 
+To remove, simply select that option and booom. Corruption is over.
+
 <img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/install3.png" alt="" width="" height="" border="" align="" />
 
 Acknowledgements
