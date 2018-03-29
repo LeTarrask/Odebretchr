@@ -1,11 +1,11 @@
 {
 	"manifest_version": 2,
-	"name": "Butterfly Codenamer",
-	"version": "0.2",
+	"name": "Odebrechtr",
+	"version": "1.0",
 	"description": "Chamando os políticos pelos seus próprios nomes.",
-	"icons": { "16": "images/butterfly16.png",
-           "48": "images/butterfly48.png",
-          "128": "images/butterfly128.png" },
+	"icons": { "16": "images/odebrechtr16.png",
+           "48": "images/odebrechtr48.png",
+          "128": "images/odebrechtr128.png" },
 	"content_scripts": 
 	[
 		{
