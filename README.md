@@ -5,7 +5,7 @@ Odebretchr is a stupid political joke about Brazilian politicians and the nickna
 
 It replaces politics’ names with their outlaw nicknames from the infamous "Planilha Odebrecht".
 
-<img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/screenshot6.png" alt="" width="" height="" border="" align="" />
+<img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/screenshot6.png" alt="" width="" height="" border="" align="" /> <img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/screenshot5.png" alt="" width="" height="" border="" align="" /> <img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/screenshot4.png" alt="" width="" height="" border="" align="" /> <img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/screenshot3.png" alt="" width="" height="" border="" align="" /> <img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/screenshot2.png" alt="" width="" height="" border="" align="" /> <img src="https://github.com/LeTarrask/Odebretchr/blob/master/images/screenshot1.png" alt="" width="" height="" border="" align="" />
 
 We recommend reading the wiki for <a href="http://https://en.wikipedia.org/wiki/Operation_Car_Wash">Operação Lava Jato</a> for double laughs.
 
