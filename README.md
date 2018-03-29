@@ -1,10 +1,15 @@
 Odebretchr
 ===================
 
-Odebretchr is a stupid political joke about Brazilian politicians and the nicknames they use to hide corrupt actions. 
+Odebretchr is a stupid political joke about Brazilian politicians and the nicknames used to hide corrupt actions. Most corrupt politicians had funny nicknames in the corrupt companies accounting systems, so we made this tool to help readers know who is who.
 
-It replaces politics’ names with their outlaw nicknames.
+It replaces politics’ names with their outlaw nicknames from the infamous "Planilha Odebrecht".
 
+To install
+================
+In Google Chrome, go to 'Tools', then 'Extensions', then upload the folder Odebrechtr.
+
+We recommend reading the wiki for <a href="http://https://en.wikipedia.org/wiki/Operation_Car_Wash">Operação Lava Jato</a> for double laughs.
 
 Acknowledgements
 ================
